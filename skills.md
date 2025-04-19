@@ -24,7 +24,7 @@ Hi, all my skills are here.
 
 <div class="grid">
 <vs-row justify="space-around" align="middle">
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v1"
       disabled
@@ -33,7 +33,7 @@ Hi, all my skills are here.
       :colors="['#8B70CD', '#8B70CD', '#8B70CD']"
     />
 </vs-col>
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v2"
       disabled
@@ -42,7 +42,7 @@ Hi, all my skills are here.
       :colors="['#8B70CD', '#8B70CD', '#8B70CD']"
     />
 </vs-col>
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v3"
       disabled
@@ -53,7 +53,7 @@ Hi, all my skills are here.
 </vs-col>
 
 
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v3"
       disabled
@@ -62,7 +62,7 @@ Hi, all my skills are here.
       :colors="['#8B70CD', '#8B70CD', '#8B70CD']"
     />
 </vs-col>
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v1"
       disabled
@@ -71,7 +71,7 @@ Hi, all my skills are here.
       :colors="['#8B70CD', '#8B70CD', '#8B70CD']"
     />
 </vs-col>
-<vs-col :sm=4>
+<vs-col>
 <vs-rate
       v-model="v0"
       disabled

@@ -6,6 +6,9 @@ hero:
   name: Bhupendra Jogi
   text: 
   tagline: Naam Bataiye? Bhupendra Jogi
+  image:
+    src: https://bijit.xyz/cockpit-master/storage/uploads/2025/04/19/bhupi_bhai_uid_68034202b2b28.webp
+    alt: ⚡
   actions:
     - theme: brand
       text: About Me

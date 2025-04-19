@@ -3,23 +3,32 @@
 layout: home
 
 hero:
-  name: "Portfolio"
-  text: "Portfolio website for snapsyntax"
-  tagline: My great project tagline
+  name: Bhupendra Jogi
+  text: 
+  tagline: Naam Bataiye? Bhupendra Jogi
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About Me
+      link: /about-me
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Skills
+      link: /skills
+    - theme: alt
+      text: Projects
+      link: /projects
+    - theme: alt
+      text: Contact
+      link: /contact
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚡️
+    title: Front-End
+    details: Vue, React, Composer
+  - icon: 📲
+    title: Back-End
+    details: Express, Next JS, Nitro JS, Django...
+  - icon: 🛠️
+    title: DevOps
+    details: CI/CD, Kubernetes...
 ---
 
